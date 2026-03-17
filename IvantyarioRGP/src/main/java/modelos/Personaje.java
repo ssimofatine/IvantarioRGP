@@ -60,6 +60,7 @@ public class Personaje {
     public Item buscarItem(String nombreItem) {
         return inventario.get(nombreItem);
     }
+
 }
 
 
